@@ -8,3 +8,8 @@ print("Python is simple")
 
 print("Dictionary")
 print("List")
+
+
+
+
+print("Strings")

@@ -9,7 +9,9 @@ print("Python is simple")
 print("Dictionary")
 print("List")
 
+<<<<<<< HEAD
 
 
 
 print("Strings")
+print("Tuple")

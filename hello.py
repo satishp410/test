@@ -7,3 +7,4 @@ print("This is python program")
 print("Python is simple")
 
 print("Dictionary")
+print("List")

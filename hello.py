@@ -14,6 +14,6 @@ print("List")
 
 print("Strings")
 
-print("tuple")
+print("tuple ()")
 
 print("enumerator")

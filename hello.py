@@ -14,6 +14,6 @@ print("List")
 
 print("Strings")
 
-print("tuple ()")
+print("mmjutable -tuple-()")
 
 print("enumerator")
